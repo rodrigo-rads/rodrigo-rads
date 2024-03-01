@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=333333&background=E7D2F8&center=true&vCenter=true&multiline=true&random=false&width=1000&height=150&lines=Hi+there!;I'm+Rodrigo+%F0%9F%A6%96+(Rads))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+plex+mono&weight=900&size=50&duration=2200&pause=100&color=434343&background=E7D2F8&center=true&vCenter=true&multiline=true&random=false&width=1200&height=200&lines=Hi+there!;I'm+Rodrigo+Soares+%F0%9F%A6%96+(Rads))](https://git.io/typing-svg)
 
 <!--
 **rodrigo-rads/rodrigo-rads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
